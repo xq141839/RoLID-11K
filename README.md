@@ -15,9 +15,9 @@
 
 ## 📰News
 
-**[2026.01.01]** The article has been accepted by: IEEE Transactions on Circuits and Systems for Video Technology.
+**[2026.01.01]** The dataset has been released!
 
-**[2025.12.24]** The article has been accepted by the WACV 2026 Workshop. Code and model checkpoints are released!
+**[2025.12.24]** The article has been accepted by the WACV 2026 Workshop.
 
 ## 📜Citation
 If you find this work helpful for your project, please consider citing the following paper:
