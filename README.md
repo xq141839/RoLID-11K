@@ -1,7 +1,7 @@
 # WACVW 2026 | RoLID-11K: A Dashcam Dataset for Small-Object Roadside Litter Detection
 
 
-:pushpin: The Dataset can be downloaded from 
+:pushpin: The Dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1aPPW76js_JKdx_9SF0tioxjs17sLbOn-?usp=sharing).
 
 [[`arXiv`]()] [[`BibTeX`]()]
 
