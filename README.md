@@ -3,7 +3,7 @@
 
 :pushpin: The Dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1aPPW76js_JKdx_9SF0tioxjs17sLbOn-?usp=sharing).
 
-[[`arXiv`]()] [[`BibTeX`]()]
+[[`arXiv`](https://arxiv.org/abs/2601.00398)] [[`BibTeX`]()]
 
 [Tao Wu]()<sup>1,\*</sup> [Qing Xu](https://xq141839.github.io/my-portfolio/)<sup>1,\*</sup> [Xiangjian He](https://scholar.google.com/citations?user=BiBXGfIAAAAJ&hl=en&authuser=1)<sup>1,✉</sup> [Oakleigh Weekes]()<sup>2</sup> [James Brown]()<sup>2</sup> [Wenting Duan](https://scholar.google.com/citations?user=H9C0tX0AAAAJ&hl=en&authuser=1)<sup>2</sup>
 
