@@ -3,7 +3,7 @@
 
 :pushpin: The Dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1aPPW76js_JKdx_9SF0tioxjs17sLbOn-?usp=sharing).
 
-[[`arXiv`](https://arxiv.org/abs/2601.00398)] [[`BibTeX`]()]
+[[`arXiv`](https://openaccess.thecvf.com/content/WACV2026W/WasteVision/papers/Wu_RoLID-11K_A_Dashcam_Dataset_for_Small-Object_Roadside_Litter_Detection_WACVW_2026_paper.pdf)]
 
 [Tao Wu]()<sup>1,\*</sup> [Qing Xu](https://xq141839.github.io/my-portfolio/)<sup>1,\*</sup> [Xiangjian He](https://scholar.google.com/citations?user=BiBXGfIAAAAJ&hl=en&authuser=1)<sup>1,✉</sup> [Oakleigh Weekes]()<sup>2</sup> [James Brown]()<sup>2</sup> [Wenting Duan](https://scholar.google.com/citations?user=H9C0tX0AAAAJ&hl=en&authuser=1)<sup>2</sup>
 
