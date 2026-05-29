@@ -22,12 +22,12 @@
 ## 📜Citation
 If you find this work helpful for your project, please consider citing the following paper:
 ```
-@misc{wu2026rolid11kdashcamdatasetsmallobject,
-      title={RoLID-11K: A Dashcam Dataset for Small-Object Roadside Litter Detection}, 
-      author={Tao Wu and Qing Xu and Xiangjian He and Oakleigh Weekes and James Brown and Wenting Duan},
-      year={2026},
-      eprint={2601.00398},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Wu_2026_WACV,
+    author    = {Wu, Tao and Xu, Qing and He, Xiangjian and Weekes, Oakleigh and Brown, James and Duan, Wenting},
+    title     = {RoLID-11K: A Dashcam Dataset for Small-Object Roadside Litter Detection},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    month     = {March},
+    year      = {2026},
+    pages     = {568-575}
 }
 ```
